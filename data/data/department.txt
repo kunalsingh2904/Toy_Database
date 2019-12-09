@@ -1,0 +1,32 @@
+Database dummy - table department
+01;Aerospace Engineering;AE;;
+02;Chemical Engineering;CL;;
+03;Chemistry;CH;;
+04;Civil Engineering;CE;;
+05;Computer Science & Engineering;CS;;
+06;Earth Sciences;GS;;
+07;Electrical Engineering;EE;;
+08;Humanities & Social Sciences;HS;;
+09;Mathematics;MA;;
+10;Mechanical Engineering;ME;;
+11;Metallurgical Engineering & Materials Science;MM;;
+12;Physics;PH;;
+13;Industrial Design Centre;ID;;
+14;Bio-Medical Engineering;BM;;
+16;Corrosion Science & Engineering;CR;;
+17;Energy Systems Engineering;EN;;
+18;Environmental Science & Engineering;ES;;
+19;Industrial Engineering & Operations Research;IE;;
+20;Industrial Management;IM;;
+21;Materials Science;MS;;
+22;Reliability Engineering;RE;;
+23;Systems & Control Engineering;SC;;
+24;Bio-Technology;BT;;
+25;Visual Communication;VC;;
+26;Engineering Physics;EP;;
+99;Prepratory Course;PP;;
+27;School of Management;MG;;
+28;Applied Statistics and Informatics;SI;;
+29;School of Information Technology;IT;;
+
+

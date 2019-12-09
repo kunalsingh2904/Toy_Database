@@ -1,0 +1,33 @@
+Database dummy - table hod
+Corrosion Science & Engineering;khanna@cc.iitb.ac.in;121055;;
+Bio-Medical Engineering;jb@che.iitb.ac.in;021062;;
+Chemical Engineering;rkmalik@che.iitb.ac.in;021064;;
+Civil Engineering;tkant@civil.iitb.ac.in;041025;;
+Computer Science & Engineering;head@cse.iitb.ac.in;hod05;;
+Earth Sciences;dchandra@geos.iitb.ac.in;161014;;
+Electrical Engineering;hn@ee.iitb.ac.in;151034;;
+Humanities & Social Sciences;hod@manashi.hss.iitb.ac.in;hodhss;;
+Mathematics;hod@math.iitb.ac.in;hod09;;
+Mechanical Engineering;hod@me.iitb.ac.in;hodme;;
+Metallurgical Engineering & Materials Science;hod@met.iitb.ac.in;hodmet;;
+Physics;syed@phy.iitb.ac.in;091053;;
+Industrial Design Centre;ravihaz@idc.iitb.ac.in;hodidc;;
+CSRE;bspani@civil.iitb.ac.in;041027;;
+ACRE;anc@ee.iitb.ac.in;151064;;
+RSIC;aliasgar@chem.iitb.ac.in;031045;;
+School of Management;hod@som.iitb.ac.in;hodsom;;
+School of Information Technology;dbp@it.iitb.ac.in;051013;;
+CASDE;sudhakar@aero.iitb.ac.in;011024;;
+CFDVS;ramesh@cse.iitb.ac.in;051050;;
+Reliability Engineering;anc@ee.iitb.ac.in;151064;;
+Energy Systems Engineering;rangan@me.iitb.ac.in;I93040;;
+Systems & Control Engineering;bijnan@ee.iitb.ac.in;151072;;
+Aerospace Engineering;hod@aero.iitb.ac.in;hod01;;
+Mathematics;paragt@admin.iitb.ac.in;121045;;
+Bio-Technology;kkr@btc.iitb.ac.in;661002;;
+Chemistry;hod@chem.iitb.ac.in;hod03;;
+Environmental Science & Engineering;hodcese@cc.iitb.ac.in;hod18;;
+Industrial Engineering & Operations Research;subash@me.iitb.ac.in;111056;;
+Visual Communication;ravihaz@idc.iitb.ac.in;081012;;
+
+

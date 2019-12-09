@@ -1,0 +1,14 @@
+Database dummy - table program
+0;B.Tech;8;;
+1;5 Year Integrated M.Sc.;10;;
+2;D.I.I.T;2;;
+3;M.Tech;5;;
+4;Ph.D;12;;
+5;2 Yr M.Sc;4;;
+6;M.Des;6;;
+8;M.Phil.;5;;
+9;M.Mgnt.;6;;
+D;Dual Degree Programme;10;;
+M;M.S. By Research;4;;
+
+

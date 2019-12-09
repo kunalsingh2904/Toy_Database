@@ -1,0 +1,35 @@
+Database dummy - table splndefn
+IC;Inorganic Chemistry;03;5;;
+PC;Physical Chemistry;03;5;;
+OC;Organic Chemistry;03;5;;
+TS;Transportation Systems Engineering;04;3;;
+GE;Geotechnical Engineering;04;3;;
+SE;Structural Engineering;04;3;;
+OE;Offshore Engineering;04;3;;
+RS;Remote Sensing;04;3;;
+CM;Communication Engineering;07;3;;
+CI;Control & Instrumentation;07;3;;
+PL;Power Electronics & Power Systems;07;3;;
+ME;Micro Electronics;07;3;;
+TF;Thermal & Fluids Engineering;10;3;;
+DE;Design Engineering;10;3;;
+MT;Materials Science & Engg.;11;3;;
+PT;Process Metallurgy;11;3;;
+MF;Manufacturing Engineering;10;3;;
+E1;Communication & Signal Processing;07;D;;
+E2;Microelectronics;07;D;;
+M1;Computer Aided Design (CAD) & Automation;10;D;;
+M2;Computer Integrated Manufacturing;10;D;;
+M3;Thermal & Fluids Engineering;10;D;;
+WE;Water Resources Engineering;04;3;;
+AS;Aerospace Structures;01;3;;
+CG;Control  and Guidance;01;3;;
+AC;Aerodynamics;01;3;;
+AP;Aerospace Propulsion;01;3;;
+SS;Systems Engineering;01;3;;
+Y1;Ceramics & Composites;11;D;;
+Y2;Metallurgical Process Engg.;11;D;;
+P1;Planning and Development;08;8;;
+WP;Management Working Professionals;27;3;;
+
+
