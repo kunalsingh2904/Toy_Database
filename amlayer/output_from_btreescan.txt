@@ -1,0 +1,4 @@
+Number of seeks required in btree scan for reads: 11613
+Number of seeks required in btree scan for writes: 11730
+Number of transfers required in btree scan for reads: 11761
+Number of transfers required in btree scan for writes: 11898
