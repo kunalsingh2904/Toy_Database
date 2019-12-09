@@ -1,0 +1,102 @@
+Block size: 20
+Pagesize: 4096
+AttrLen: 11
+No of entries: 18,65,648
+3 passes required
+
+< Number of seeks required in mergesort for reads: 742
+< Number of seeks required in mergesort for writes: 27624
+< Number of transfers required in mergesort for reads: 27436
+< Number of transfers required in mergesort for writes: 41536
+---
+> Number of seeks required in btree scan for reads: 2998055
+> Number of seeks required in btree scan for writes: 1871771
+> Number of transfers required in btree scan for reads: 2998992
+> Number of transfers required in btree scan for writes: 1872602
+
+
+Block size: 20
+Pagesize: 4096
+AttrLen: 21
+No of entries: 18,65,648
+3 passes required
+
+Number of seeks required in mergesort for reads: 1212
+Number of seeks required in mergesort for writes: 38802
+Number of transfers required in mergesort for reads: 36355
+Number of transfers required in mergesort for writes: 59628
+
+
+Number of seeks required in btree scan for reads: 3363958
+Number of seeks required in btree scan for writes: 1891106
+Number of transfers required in btree scan for reads: 3364690
+Number of transfers required in btree scan for writes: 1891662
+
+
+
+
+Block size: 20
+Pagesize: 4096
+AttrLen: 11
+No of entries: 35447312
+4 passes required
+
+Number of seeks required in mergesort for reads: 14099
+Number of seeks required in mergesort for writes: 736118
+Number of transfers required in mergesort for reads: 651605
+Number of transfers required in mergesort for writes: 1049809
+
+Number of seeks required in btree scan for reads: 71745461
+Number of seeks required in btree scan for writes: 35904979
+Number of transfers required in btree scan for reads: 71747679
+Number of transfers required in btree scan for writes: 35906301
+
+
+
+Block size: 30
+Pagesize: 4096
+AttrLen: 11
+No of entries: 7888
+1 pass required
+
+Number of seeks required in mergesort for reads: 2
+Number of seeks required in mergesort for writes: 58
+Number of transfers required in mergesort for reads: 58
+Number of transfers required in mergesort for writes: 60
+
+Number of seeks required in btree scan for reads: 920
+Number of seeks required in btree scan for writes: 929
+Number of transfers required in btree scan for reads: 945
+Number of transfers required in btree scan for writes: 956
+
+Block size: 40
+Pagesize: 4096
+AttrLen: 11
+No of entries: 10608
+1 pass required
+
+Number of seeks required in mergesort for reads: 2
+Number of seeks required in mergesort for writes: 78
+Number of transfers required in mergesort for reads: 78
+Number of transfers required in mergesort for writes: 80
+
+Number of seeks required in btree scan for reads: 1351
+Number of seeks required in btree scan for writes: 1359
+Number of transfers required in btree scan for reads: 1363
+Number of transfers required in btree scan for writes: 1382
+
+Block size: 20
+Pagesize: 8192
+AttrLen: 11
+No of entries: 18,65,648
+2 passes required
+
+Number of seeks required in mergesort for reads: 7034
+Number of seeks required in mergesort for writes: 13346
+Number of transfers required in mergesort for reads: 7034
+Number of transfers required in mergesort for writes: 13537
+
+Number of seeks required in btree scan for reads: 2214099
+Number of seeks required in btree scan for writes: 1841147
+Number of transfers required in btree scan for reads: 2214099
+Number of transfers required in btree scan for writes: 1841149
